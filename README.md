@@ -48,5 +48,5 @@ Penjelasan tentang proses passing data dari form menuju tampilan di Flutter
 
 ## Screenshot
 Hasil :
-![Lampiran Form](form wike.png)
-![Lampiran Hasil](tampil wike.png)
+![Screenshots](form wike.png)
+![Screenshots](tampil wike.png)
